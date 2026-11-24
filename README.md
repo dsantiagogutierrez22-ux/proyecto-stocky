@@ -1,4 +1,4 @@
-# Proyecto QR - Johan Rodriguez Morales (Ficha 3549894)
+# Proyecto QR 
 
 Archivos: index.html, estilos.css y app.js. Deben quedar juntos en la misma carpeta.
 
