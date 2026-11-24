@@ -1,0 +1,9 @@
+Aprendiz: Johan Rodriguez Morales
+Ficha: 3549894
+Enlace del QR: const URL_PAGINA = "https://johanrodruguez02-rgbgithub.io/TU/";
+Fecha: 13/11/2026, 10:20:33 a. m.
+
+index.html: 23/23 líneas (completo)
+estilos.css: 17/17 líneas (completo)
+app.js: 18/18 líneas (completo)
+publicar.txt: 6/6 líneas (completo)
